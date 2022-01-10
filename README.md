@@ -1,14 +1,14 @@
 # 3dface
  
-Install ffmpeg and add to your PATH
+Install [ffmpeg](https://www.ffmpeg.org/download.html) and add to your PATH
 
-Download [Meshroom](https://github.com/alicevision/meshroom/releases/tag/v2021.1.0) and extract the Meshroom-2021.1.0 into the base directory.
+Download [Meshroom](https://github.com/alicevision/meshroom/releases/tag/v2021.1.0) and extract the Meshroom-2021.1.0 folder into the base directory.
 
 Create a virtual environment and run
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Run
 
