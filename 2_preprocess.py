@@ -85,8 +85,3 @@ except Exception as e:
 for i in final:
     copyfile(i, i.replace("./out/","./preprocessed/"))
 
-
-""" print(compare_histogram(frames[0], frames[12]))
-for i in range(len(frames)):
-    print(i + 1, variance_of_laplacian(frames[i]))
- """
